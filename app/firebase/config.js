@@ -1,10 +1,12 @@
 const firebaseConfig = {
-  apiKey: 'ccraSyBT9MFsTOdDG5Cx0skAOtef8uzIBLJQ2xA',
-  authDomain: 'yourapp-1234e.firebaseapp.com',
-  databaseURL: 'https://youreapp-1234e.firebaseio.com',
-  projectId: 'youreapp-1234e',
-  storageBucket: 'youreapp-1234e.appspot.com',
-  messagingSenderId: '37325684805'
+  apiKey: 'AIzaSyAGousWwgwCdMSmjWTYkpBZiBNxoq3osXo',
+  authDomain: 'tacle-5443e.firebaseapp.com',
+  databaseURL: 'https://tacle-5443e.firebaseio.com',
+  projectId: 'tacle-5443e',
+  storageBucket: 'tacle-5443e.appspot.com',
+  messagingSenderId: '953933070076',
+  appId: '1:953933070076:web:ead9afb701582121442179',
+  measurementId: 'G-J8BF5HQL2V'
 };
 
 export default firebaseConfig;
